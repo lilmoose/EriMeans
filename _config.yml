@@ -16,8 +16,7 @@
 
 title: Erica
 email: "eri.means@gmail.com"
-description: >
-boo
+description: boo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lilmoose.github.io/EriMeans/" # the base hostname & protocol for your site, e.g. http://example.com
 linked_in_link: "https://www.linkedin.com/in/levytsroman"
